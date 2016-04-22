@@ -7,7 +7,7 @@ A tool to easily split MP3 compilations from youtube or other sources.
 # Usage
 1. Prepare a tracks.txt file with time of each track within the mp3 in the following format.
 
-   ` HH:MM - TITLE `
+   ` MM:SS - TITLE `
 
    E.g:
    ```
